@@ -24,19 +24,15 @@ Design patterns can be broadly classified into three categories:
 
 Creational patterns deal with the process of object creation. They abstract the instantiation process, making the system independent of how its objects are created, composed, and represented. These patterns help ensure that your code can create objects in a flexible and scalable way.
 
-- [Creational Patterns Examples](./creational)
+- [Creational Patterns Examples](./creational_patterns)
 
 ### 2. **Structural Patterns**
 
 Structural patterns focus on the composition of classes or objects. They help ensure that different components of a system work together in a cohesive way while keeping them independent. These patterns simplify the design by organizing classes and objects in a way that makes them easier to maintain and extend.
 
-- [Structural Patterns Examples](./structural)
-
 ### 3. **Behavioral Patterns**
 
 Behavioral patterns define the communication between objects, focusing on the flow of control between them. These patterns are used to deal with algorithms and the assignment of responsibilities between objects.
-
-- [Behavioral Patterns Examples](./behavioral)
 
 ## Next Steps
 
