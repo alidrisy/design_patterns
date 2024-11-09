@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Creational Design Patterns** are a category of design patterns that deal with the process of object creation. These patterns abstract the instantiation process, making the system independent of how its objects are created, composed, and represented. By utilizing creational patterns, developers can ensure that object creation is handled in a flexible and controlled manner.
+**Creational Design Patterns** are a category of design patterns that deal with object creation. These patterns abstract the instantiation process, making the system independent of how objects are created, composed, and represented. By utilizing creational patterns, developers can ensure that object creation is handled flexibly and controlled.
 
 ## Key Benefits
 
