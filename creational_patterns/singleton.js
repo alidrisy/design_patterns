@@ -1,5 +1,9 @@
 /*
-The Singleton Design Pattern: ensures that a class has only one instance and provides a global point of access to that instance. The core idea is that no matter how many times you try to instantiate the class, only the first instance will be created, and any subsequent attempts will return the already created instance.
+The Singleton Design Pattern: ensures that a class has only one instance and
+provides a global point of access to that instance. The core idea is that no 
+matter how many times you try to instantiate the class, only the first instance 
+will be created, and any subsequent attempts will return the already created 
+instance.
 
 Here are some use cases of the singleton design patterns:
 1. Database connections
